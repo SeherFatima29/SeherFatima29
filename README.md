@@ -1,4 +1,4 @@
-![logo](align="centre" https://raw.githubusercontent.com/gist/JayaRaghavendra/5289d3687bf8bcd6d806b3655e11c7f4/raw/abf4b7228cadc93427e398a7f4d8fb031988c90d/Hello%20World.gif)
+![logo](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
 
 
 
