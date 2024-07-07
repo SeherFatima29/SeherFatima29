@@ -1,11 +1,11 @@
-![logo](https://raw.githubusercontent.com/gist/JayaRaghavendra/5289d3687bf8bcd6d806b3655e11c7f4/raw/abf4b7228cadc93427e398a7f4d8fb031988c90d/Hello%20World.gif)
+![logo](align="centre" https://raw.githubusercontent.com/gist/JayaRaghavendra/5289d3687bf8bcd6d806b3655e11c7f4/raw/abf4b7228cadc93427e398a7f4d8fb031988c90d/Hello%20World.gif)
 
 
 
 <h1 align="center">Hi 👋, I'm Seher fatima</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" height="300" src="https://raw.githubusercontent.com/oestradiol/oestradiol/main/me-coding.gif">
+<img align="centre" alt="coding" width="400"  src="https://raw.githubusercontent.com/oestradiol/oestradiol/main/me-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seherfatima29&label=Profile%20views&color=0e75b6&style=flat" alt="seherfatima29" /> </p>
 
