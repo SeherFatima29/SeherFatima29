@@ -1,4 +1,4 @@
-![logo](https://data.textstudio.com/output/sample/animated/9/5/8/4/code-3-14859.gif)
+![logo](https://media1.giphy.com/media/jBN1hXQCieS26Ba6iB/giphy.gif?cid=6c09b952vj6oxvvo4ul3amuxb7x09p73kfei9o0hjntkrs8u&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
 
 
 
