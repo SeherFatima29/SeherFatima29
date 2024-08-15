@@ -1,4 +1,4 @@
-![logo](https://media1.giphy.com/media/jBN1hXQCieS26Ba6iB/giphy.gif?cid=6c09b952vj6oxvvo4ul3amuxb7x09p73kfei9o0hjntkrs8u&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
+![logo](https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif)
 
 
 
