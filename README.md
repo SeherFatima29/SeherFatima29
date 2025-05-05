@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/7a52c0a7-9076-4192-bce0-c1998d1248a9)…
+![logo](https://github.com/user-attachments/assets/27bd8cb5-3da5-4b93-825d-7540830dbde7)
+)…
 
 <h1 align="center">Hi 👋, I'm Seher fatima</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
